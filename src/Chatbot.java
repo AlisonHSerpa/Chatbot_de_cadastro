@@ -8,6 +8,7 @@ public class Chatbot {
         String profissao;
 
         //processamento
+        
         System.out.println("Bem vindo ao Selfcare, seu aplicativo de cuidados, por favor informe seu nome:");
         nome = sc.nextLine();
         System.out.println("qual sua idade?");
